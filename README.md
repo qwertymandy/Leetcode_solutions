@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
