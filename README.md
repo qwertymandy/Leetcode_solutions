@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0015-3sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0015-3sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
