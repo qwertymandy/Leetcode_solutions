@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0010-regular-expression-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
