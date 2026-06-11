@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -72,4 +73,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0983-validate-stack-sequences) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
