@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
+| [0076-minimum-window-substring](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
