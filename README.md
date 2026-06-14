@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0046-permutations) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0198-house-robber) |
@@ -122,4 +123,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
