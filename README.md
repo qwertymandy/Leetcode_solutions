@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0010-regular-expression-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Recursion
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0010-regular-expression-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0044-wildcard-matching) |
 ## Sorting
 |  |
 | ------- |
