@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0008-string-to-integer-atoi](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Recursion
