@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0146-lru-cache) |
 ## Design
 |  |
