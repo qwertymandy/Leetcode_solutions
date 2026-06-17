@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0983-validate-stack-sequences](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0983-validate-stack-sequences) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
@@ -131,12 +132,15 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
