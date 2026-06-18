@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0146-lru-cache) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -148,9 +150,18 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
