@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0051-n-queens](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0051-n-queens) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0983-validate-stack-sequences](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0983-validate-stack-sequences) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0007-reverse-integer](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/qwertymandy/Leetcode_solutions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0983-validate-stack-sequences](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0983-validate-stack-sequences) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
