@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0392-is-subsequence](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0146-lru-cache) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
