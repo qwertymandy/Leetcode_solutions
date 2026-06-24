@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0209-minimum-size-subarray-sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0983-validate-stack-sequences](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0983-validate-stack-sequences) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Stack
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0036-valid-sudoku) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Database
 |  |
 | ------- |
