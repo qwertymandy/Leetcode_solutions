@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0010-regular-expression-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0392-is-subsequence) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0007-reverse-integer](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/qwertymandy/Leetcode_solutions/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
