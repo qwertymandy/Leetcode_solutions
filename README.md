@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0198-house-robber](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0983-validate-stack-sequences](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0983-validate-stack-sequences) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0009-palindrome-number](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/qwertymandy/Leetcode_solutions/tree/master/1446-angle-between-hands-of-a-clock) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## String
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0015-3sum](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0015-3sum) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,4 +179,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0617-merge-two-binary-trees) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+## Number Theory
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
