@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0070-climbing-stairs](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/qwertymandy/Leetcode_solutions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## String
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
