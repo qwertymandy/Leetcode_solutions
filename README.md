@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0044-wildcard-matching](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/qwertymandy/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [2373-apply-discount-to-prices](https://github.com/qwertymandy/Leetcode_solutions/tree/master/2373-apply-discount-to-prices) |
 ## Recursion
 |  |
 | ------- |
